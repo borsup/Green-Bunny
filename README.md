@@ -17,13 +17,14 @@ Green Bunny is a program designed to add a playful touch to your computer experi
 Green Bunny is a portable application, and no formal installation is required. Follow the simple steps below to run the program:
 
 1. **Download:**
-   - Download the latest release from https://github.com/borsup/Green-Bunny/
-
+   - Download `Green Bunny.z01` and `Green Bunny.zip` from https://github.com/borsup/Green-Bunny/
+     
 2. **Extract Files:**
-   - Extract the downloaded ZIP file to a location of your choice.
+   - Extract `Green Bunny.zip` to a location of your choice.
 
 3. **Run the Program:**
    - Navigate to the extracted folder.
+   - Open the Green Bunny's directory
    - Double-click on `Green Bunny.exe` to launch the program.
 
 That's it! Green Bunny is now running, and you can customize the mouse movements using the user-friendly interface.
